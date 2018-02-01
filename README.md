@@ -1,2 +1,2 @@
 # HelloWorld
-Getting started
+Getting started slowly
